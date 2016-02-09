@@ -1,0 +1,19 @@
+{
+  "name": "bonfire.flameGraph",
+  "version": "0.4.2",
+  "homepage": "https://github.com/romario13/bonfire",
+  "authors": [
+    "Roman Sarychev <romario13@gmail.com>"
+  ],
+  "description": "A direct draw library to produce flame graphs.",
+  "main": "bonfire.flameGraph.js",
+  "keywords": [
+    "flame",
+    "graph",
+    "flamegraph",
+    "performance"
+  ],
+  "license": "MIT",
+  "ignore": [],
+  "dependencies": {}
+}
