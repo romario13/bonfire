@@ -1,12 +1,6 @@
-[submodule "lib/bonfire-java-examples"]
-	path = lib/bonfire-java-examples
-	url = https://github.com/romario13/bonfire-java-examples
 [submodule "lib/perf-map-agent"]
 	path = lib/perf-map-agent
 	url = https://github.com/jrudolph/perf-map-agent
 [submodule "lib/FlameGraph"]
 	path = lib/FlameGraph
 	url = https://github.com/brendangregg/FlameGraph
-[submodule "lib/d3-flame-graph"]
-	path = lib/d3-flame-graph
-	url = https://github.com/romario13/d3-flame-graph
